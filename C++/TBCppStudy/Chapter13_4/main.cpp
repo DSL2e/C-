@@ -22,7 +22,7 @@ int main(void)
 	// ==getMax<int>(1,2)
 	//cout << getMax(1, 2) << endl;
 	//cout << getMax('a', 'b') << endl;
-	
+
 	Storage<int> nValue(5);
 	Storage<double> dValue(6.7);
 

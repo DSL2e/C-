@@ -7,7 +7,7 @@ class Storage
 {
 private:
 	T m_value;
-	
+
 public:
 	Storage(T value)
 	{
@@ -24,7 +24,7 @@ public:
 	}
 };
 
-// header에 몰아 넣는게 주로 많음.
+
 template<>
 void Storage<double>::print()
 {
