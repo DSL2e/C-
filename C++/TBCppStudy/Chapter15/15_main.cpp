@@ -189,3 +189,4 @@ int main(void)
 
 	std::cout << lucy->getPartner()->getName() << std::endl;
 	return 0;
+}
